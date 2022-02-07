@@ -23,6 +23,7 @@
 		B271F77A27B15E2600BABC46 /* CarFeaturesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F77927B15E2600BABC46 /* CarFeaturesView.swift */; };
 		B271F77C27B168DA00BABC46 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F77B27B168DA00BABC46 /* SettingsView.swift */; };
 		B271F77E27B1761500BABC46 /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F77D27B1761500BABC46 /* SettingsLabelView.swift */; };
+		B27B8C2927B1976900210AF2 /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B27B8C2827B1976900210AF2 /* SettingsRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		B271F77927B15E2600BABC46 /* CarFeaturesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarFeaturesView.swift; sourceTree = "<group>"; };
 		B271F77B27B168DA00BABC46 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		B271F77D27B1761500BABC46 /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
+		B27B8C2827B1976900210AF2 /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				B271F77727B1563D00BABC46 /* SourceLinkView.swift */,
 				B271F77927B15E2600BABC46 /* CarFeaturesView.swift */,
 				B271F77D27B1761500BABC46 /* SettingsLabelView.swift */,
+				B27B8C2827B1976900210AF2 /* SettingsRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 			files = (
 				B271F77A27B15E2600BABC46 /* CarFeaturesView.swift in Sources */,
 				B271F77627B1500F00BABC46 /* CarHeaderView.swift in Sources */,
+				B27B8C2927B1976900210AF2 /* SettingsRowView.swift in Sources */,
 				B271F77827B1563D00BABC46 /* SourceLinkView.swift in Sources */,
 				B271F75827B02C5200BABC46 /* ContentView.swift in Sources */,
 				B271F76827B0456700BABC46 /* StartButtonView.swift in Sources */,
