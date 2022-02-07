@@ -34,6 +34,7 @@ struct CarDetailView: View {
                         .multilineTextAlignment(.leading)
                     
                     //CAR FEATURES
+                    CarFeaturesView(car: car)
                     
                     //SUBHEADING
                     Text("Learn more about \(car.title)".uppercased())

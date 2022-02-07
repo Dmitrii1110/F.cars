@@ -20,6 +20,7 @@
 		B271F77427B137BE00BABC46 /* CarDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F77327B137BE00BABC46 /* CarDetailView.swift */; };
 		B271F77627B1500F00BABC46 /* CarHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F77527B1500F00BABC46 /* CarHeaderView.swift */; };
 		B271F77827B1563D00BABC46 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F77727B1563D00BABC46 /* SourceLinkView.swift */; };
+		B271F77A27B15E2600BABC46 /* CarFeaturesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F77927B15E2600BABC46 /* CarFeaturesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		B271F77327B137BE00BABC46 /* CarDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarDetailView.swift; sourceTree = "<group>"; };
 		B271F77527B1500F00BABC46 /* CarHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarHeaderView.swift; sourceTree = "<group>"; };
 		B271F77727B1563D00BABC46 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		B271F77927B15E2600BABC46 /* CarFeaturesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarFeaturesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				B271F77127B12C6600BABC46 /* CarRowView.swift */,
 				B271F77527B1500F00BABC46 /* CarHeaderView.swift */,
 				B271F77727B1563D00BABC46 /* SourceLinkView.swift */,
+				B271F77927B15E2600BABC46 /* CarFeaturesView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B271F77A27B15E2600BABC46 /* CarFeaturesView.swift in Sources */,
 				B271F77627B1500F00BABC46 /* CarHeaderView.swift in Sources */,
 				B271F77827B1563D00BABC46 /* SourceLinkView.swift in Sources */,
 				B271F75827B02C5200BABC46 /* ContentView.swift in Sources */,
