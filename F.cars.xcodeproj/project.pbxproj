@@ -17,6 +17,9 @@
 		B271F76D27B11A7500BABC46 /* CarModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F76C27B11A7500BABC46 /* CarModel.swift */; };
 		B271F77027B11C1B00BABC46 /* CarData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F76F27B11C1B00BABC46 /* CarData.swift */; };
 		B271F77227B12C6600BABC46 /* CarRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F77127B12C6600BABC46 /* CarRowView.swift */; };
+		B271F77427B137BE00BABC46 /* CarDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F77327B137BE00BABC46 /* CarDetailView.swift */; };
+		B271F77627B1500F00BABC46 /* CarHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F77527B1500F00BABC46 /* CarHeaderView.swift */; };
+		B271F77827B1563D00BABC46 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B271F77727B1563D00BABC46 /* SourceLinkView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +34,9 @@
 		B271F76C27B11A7500BABC46 /* CarModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarModel.swift; sourceTree = "<group>"; };
 		B271F76F27B11C1B00BABC46 /* CarData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarData.swift; sourceTree = "<group>"; };
 		B271F77127B12C6600BABC46 /* CarRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarRowView.swift; sourceTree = "<group>"; };
+		B271F77327B137BE00BABC46 /* CarDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarDetailView.swift; sourceTree = "<group>"; };
+		B271F77527B1500F00BABC46 /* CarHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarHeaderView.swift; sourceTree = "<group>"; };
+		B271F77727B1563D00BABC46 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +93,7 @@
 				B271F75527B02C5200BABC46 /* F_carsApp.swift */,
 				B271F75727B02C5200BABC46 /* ContentView.swift */,
 				B271F76927B054C200BABC46 /* OnboardingView.swift */,
+				B271F77327B137BE00BABC46 /* CarDetailView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -97,6 +104,8 @@
 				B271F76527B035A600BABC46 /* CarCardView.swift */,
 				B271F76727B0456600BABC46 /* StartButtonView.swift */,
 				B271F77127B12C6600BABC46 /* CarRowView.swift */,
+				B271F77527B1500F00BABC46 /* CarHeaderView.swift */,
+				B271F77727B1563D00BABC46 /* SourceLinkView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -187,6 +196,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B271F77627B1500F00BABC46 /* CarHeaderView.swift in Sources */,
+				B271F77827B1563D00BABC46 /* SourceLinkView.swift in Sources */,
 				B271F75827B02C5200BABC46 /* ContentView.swift in Sources */,
 				B271F76827B0456700BABC46 /* StartButtonView.swift in Sources */,
 				B271F76D27B11A7500BABC46 /* CarModel.swift in Sources */,
@@ -194,6 +205,7 @@
 				B271F77227B12C6600BABC46 /* CarRowView.swift in Sources */,
 				B271F76A27B054C200BABC46 /* OnboardingView.swift in Sources */,
 				B271F77027B11C1B00BABC46 /* CarData.swift in Sources */,
+				B271F77427B137BE00BABC46 /* CarDetailView.swift in Sources */,
 				B271F76627B035A600BABC46 /* CarCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
