@@ -69,5 +69,6 @@ struct CarDetailView: View {
 struct CarDetailView_Previews: PreviewProvider {
     static var previews: some View {
         CarDetailView(car: carsData[0])
+            .preferredColorScheme(.dark)
     }
 }
